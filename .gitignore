@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.playwright-mcp/
+catboost_info/
+data/raw/
+data/raw_rustutors/
+data/splits/
+*.bak
+.DS_Store

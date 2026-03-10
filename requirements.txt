@@ -1,0 +1,27 @@
+# Data collection
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.1
+
+# Data processing
+pandas>=2.1
+numpy>=1.26
+
+# ML
+scikit-learn>=1.4
+catboost>=1.2
+torch>=2.0
+transformers>=4.30
+sentencepiece>=0.1.99
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.27
+
+# API (for later)
+fastapi>=0.109
+uvicorn>=0.27
